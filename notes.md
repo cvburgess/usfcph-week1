@@ -2,9 +2,9 @@
 
 ## Version Control - because save as is just won't cut it
 
-## Git Verbs - common actions developers use often
+## **Git Verbs - common actions developers use often**
 
-### 1. Forking and cloning
+### 1. *Forking and cloning*
 
         Forking - there's a copy out there and I can get a 100% replica
         Cloning - taking that copy and pulling it down to my local PC
