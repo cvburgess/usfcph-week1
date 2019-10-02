@@ -1,4 +1,6 @@
-# Version Control - because save as is just won't cut it
+# Charles Burgess - instructor
+
+## Version Control - because save as is just won't cut it
 
 ## Git Verbs - common actions developers use often
 
