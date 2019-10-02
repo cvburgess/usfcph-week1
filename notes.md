@@ -25,7 +25,7 @@
         Squash merge considers multiple banks as one bank
 
 ### 6. Pull request & Merge request
-
+ 
         tracked change merging
 
 ### 7. Stand and exercise
