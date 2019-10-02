@@ -16,4 +16,4 @@
     6. Pull request & Merge request
         tracked change merging
     7. Stand and exercise
-        Remember to
+        Remember to move around
