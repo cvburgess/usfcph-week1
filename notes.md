@@ -17,3 +17,7 @@
         tracked change merging
     7. Stand and exercise
         Remember to move around
+## Ecosystem
+    1. Front end -> e.g., IDE
+    2. Back end -> everything behind the scenes
+    3. Platform UI/UX Design/Logic XPlatform/iOS/Android/TV/Wearables/IOT/Web/Desktop/Specialty -> Front end
