@@ -10,3 +10,5 @@
 
 - Use paper, it's just easier
 - Label WHO, WHAT, WHY, and HOW for each step
+
+
